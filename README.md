@@ -35,7 +35,7 @@ Hi, I’m Lennart
 
 ## Social
 
-[<img src="linkedin-original.svg" title="LinkedIN" alt="LinkedIN" width="40" height="40"/>](https://www.linkedin.com/in/lennart-maack/)
+[<img src="/linkedin-original.svg" title="LinkedIN" alt="LinkedIN" width="40" height="40"/>](https://www.linkedin.com/in/lennart-maack/)
 
 <div>
   Mail: Lennart.maack@tuhh.de
