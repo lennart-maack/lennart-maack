@@ -3,13 +3,7 @@ Hi, I’m Lennart
 
 ## About Me:
 
-- Currently a Master's student at TUHH in the field of Mechatronics, Intelligent Systems and Robotics
-- Very inquisitive in the broad field of AI (Deep Learning/Computer Vision/Data-centric AI/Explainable AI/Graph Neural Networks/AI in Medicine)
-- Furthermore, I like to build things
-  - See CoVision & SkinDiseaseApp for my latest projects
-  - Always open to contribute to new interesting projects    
-- Happy about every new interesting contact and conversation
-- Let's change the world for the better
+Currently a PhD student at TUHH in the field Medical AI
 
 
 ## Skills
@@ -26,11 +20,7 @@ Hi, I’m Lennart
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/neo4j/neo4j-original-wordmark.svg" title="neo4j" alt="neo4j" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+
 </div>
 
 ## Social
